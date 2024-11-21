@@ -1,0 +1,15 @@
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\bin\Debug\net8.0\ConLibrary.exe
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\bin\Debug\net8.0\ConLibrary.deps.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\bin\Debug\net8.0\ConLibrary.runtimeconfig.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\bin\Debug\net8.0\ConLibrary.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\bin\Debug\net8.0\ConLibrary.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.AssemblyInfoInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.AssemblyInfo.cs
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.sourcelink.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\refint\ConLibrary.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ConLibrary.genruntimeconfig.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\ConLibrary\ConLibrary\obj\Debug\net8.0\ref\ConLibrary.dll
