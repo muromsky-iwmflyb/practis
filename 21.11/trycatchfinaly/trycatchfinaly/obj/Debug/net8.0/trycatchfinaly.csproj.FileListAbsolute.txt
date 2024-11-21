@@ -1,0 +1,15 @@
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\bin\Debug\net8.0\trycatchfinaly.exe
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\bin\Debug\net8.0\trycatchfinaly.deps.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\bin\Debug\net8.0\trycatchfinaly.runtimeconfig.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\bin\Debug\net8.0\trycatchfinaly.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\bin\Debug\net8.0\trycatchfinaly.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.AssemblyInfoInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.AssemblyInfo.cs
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.csproj.CoreCompileInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.sourcelink.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\refint\trycatchfinaly.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\trycatchfinaly.genruntimeconfig.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\21.11\trycatchfinaly\trycatchfinaly\obj\Debug\net8.0\ref\trycatchfinaly.dll

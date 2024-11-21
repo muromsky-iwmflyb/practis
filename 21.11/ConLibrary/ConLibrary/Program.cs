@@ -7,14 +7,14 @@ namespace MyLibraryTester
     {
         static void Main()
         {
-            MyClass myClass = new MyClass();
-            myClass.PrintStr("Строка");
-            myClass.PrintInt(5);
-            int sum = myClass.Plus(3, 7);
+            Class1 class1 = new Class1();
+            class1.PrintStr("Строка");
+            class1.PrintInt(5);
+            int sum = class1.Plus(3, 7);
             Console.WriteLine("Сумма: " + sum);
-            string helloName = myClass.String("Саша");
+            string helloName = class1.String("Саша");
             Console.WriteLine(helloName);
-            bool tr = myClass.Bool(8);
+            bool tr = class1.Bool(8);
             Console.WriteLine("Четное ли число 8? " + tr);
         }
     }

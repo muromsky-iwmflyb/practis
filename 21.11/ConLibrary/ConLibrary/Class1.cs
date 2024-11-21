@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ClassLibrary1
 {
-    public class MyClass
+    public class Class1
         {
             public void PrintStr(string message)
             {
