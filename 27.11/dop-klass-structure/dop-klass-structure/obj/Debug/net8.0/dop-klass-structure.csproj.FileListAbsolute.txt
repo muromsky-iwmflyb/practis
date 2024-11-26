@@ -1,0 +1,15 @@
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.AssemblyInfoInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.AssemblyInfo.cs
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.csproj.CoreCompileInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.sourcelink.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\bin\Debug\net8.0\dop-klass-structure.exe
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\bin\Debug\net8.0\dop-klass-structure.deps.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\bin\Debug\net8.0\dop-klass-structure.runtimeconfig.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\bin\Debug\net8.0\dop-klass-structure.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\bin\Debug\net8.0\dop-klass-structure.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\refint\dop-klass-structure.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\dop-klass-structure.genruntimeconfig.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\27.11\dop-klass-structure\dop-klass-structure\obj\Debug\net8.0\ref\dop-klass-structure.dll
